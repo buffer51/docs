@@ -8,7 +8,7 @@ const config = {
   CRISP_WEBSITE_ID: null,
   COLLABORATION_WS_URL: 'ws://localhost:8083/collaboration/ws/',
   ENVIRONMENT: 'development',
-  FRONTEND_THEME: 'dsfr',
+  FRONTEND_THEME: 'default',
   MEDIA_BASE_URL: 'http://localhost:8083',
   LANGUAGES: [
     ['en-us', 'English'],

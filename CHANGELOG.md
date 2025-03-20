@@ -10,11 +10,13 @@ and this project adheres to
 
 ## Added
 
+- ♻️(frontend) Integrate UI kit #783
 - 📝(doc) add publiccode.yml
 
 ## Fixed
 
 - 🐛(back) allow only images to be used with the cors-proxy #781
+
 
 ## [2.5.0] - 2025-03-18
 
